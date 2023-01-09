@@ -18,9 +18,7 @@
 
 <h3 align="center"> Connect with me: </h3>
 <p align="center">
-  <a href="www.linkedin.com/in/victoria-sales" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-      alt="Vic-linkedin" height="30" width="32" /></a>
+  <a href="www.linkedin.com/in/victoria-sales" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </p>
 
 <h3 align="center"> Languages and Tools: </h3>
