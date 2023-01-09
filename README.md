@@ -16,12 +16,12 @@
     alt="Vic-Langs" />
 </p>
 
-<div>
 <h3 align="center"> Connect with me: </h3>
 <p align="center">
-    <a href="https://www.linkedin.com/in/victoria-sales/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/victoria-sales/" target="_blank"><img
+      src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"
+      target="_blank"></a>
 </p>
-</div>
 
 <h3 align="center"> Languages and Tools: </h3>
 <p align="center">
@@ -32,3 +32,5 @@
   <img align="center" alt="Vic-CSS" height="30" width="40"
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </p>
+
+![Snake animation](https://github.com/VicSales28/VicSales28/blob/output/github-contribution-grid-snake.svg)
