@@ -32,3 +32,5 @@
   <img align="center" alt="Vic-CSS" height="30" width="40"
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </p>
+
+![Snake animation](https://github.com/VicSales28/VicSales28/blob/output/github-contribution-grid-snake.svg)
