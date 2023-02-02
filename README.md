@@ -3,8 +3,12 @@
 <h3 align="center"> From Brazil 🇧🇷 and living in Lisbon 🇵🇹</h3>
 
 <p align="center">
-  <img align="center" width=450px
-    src="https://github-readme-stats.vercel.app/api?username=VicSales28&show_icons=true&locale=en" alt="Vic-Stats" />
+  <img
+    src="https://media.discordapp.net/attachments/1062029691860566078/1062029804825755678/GIF.gif?width=415&height=415"
+    alt="Vic-GIF" height="150" style="border-radius:50px;">
+</p>
+
+<p align="center">
   <img align="center" width=450px
     src="https://github-readme-stats.vercel.app/api/top-langs?username=VicSales28&show_icons=true&locale=en&layout=compact"
     alt="Vic-Langs" />
@@ -19,10 +23,12 @@
 
 <h3 align="center"> Languages and Tools: </h3>
 <p align="center">
-  <img align="center" alt="Vic-Js" height="30" width="40"
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Vic-HTML" height="30" width="40"
+  <img align="center" alt="Vic-Js"
+    src="https://img.shields.io/badge/javascript es6+-F7DF1E?style=for-the-badge&amp;logo=javascript&amp;logoColor=black">
+  <img align="center" alt="Vic-HTML"
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Vic-CSS" height="30" width="40"
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Vic-CSS"
+    src="https://img.shields.io/badge/css3-1572B6?style=for-the-badge&amp;logo=css3&amp;logoColor=white">
+  <img align="center" alt="Vic-Git"
+    src="https://img.shields.io/badge/git-F05032?style=for-the-badge&amp;logo=git&amp;logoColor=white">
 </p>
