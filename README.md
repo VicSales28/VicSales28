@@ -1,5 +1,5 @@
 <h1 align="center"> Hi 👋, I'm Victoria! </h1>
-<h3 align="center"> I'm fullstack web developer in training at Trybe </h3>
+<h3 align="center"> I'm fullstack Web Developer FullStack in training at Trybe </h3>
 <h3 align="center"> From Brazil 🇧🇷 and living in Lisbon 🇵🇹</h3>
 
 <p align="center">
