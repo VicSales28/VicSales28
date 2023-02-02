@@ -3,12 +3,6 @@
 <h3 align="center"> From Brazil 🇧🇷 and living in Lisbon 🇵🇹</h3>
 
 <p align="center">
-  <img
-    src="https://media.discordapp.net/attachments/1062029691860566078/1062029804825755678/GIF.gif?width=415&height=415"
-    alt="Vic-GIF" height="150" style="border-radius:50px;">
-</p>
-
-<p align="center">
   <img align="center" width=450px
     src="https://github-readme-stats.vercel.app/api?username=VicSales28&show_icons=true&locale=en" alt="Vic-Stats" />
   <img align="center" width=450px
