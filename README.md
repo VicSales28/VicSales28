@@ -54,9 +54,9 @@ const contactMe = () => ({
 ```
 
 ##  Info from my GitHub
-<div>
-<img width=450px src="https://github-readme-stats.vercel.app/api?username=VicSales28&show_icons=true&theme=transparent" alt="Vic-Stars" />
-<img width=400px src="https://github-readme-stats.vercel.app/api/top-langs?username=VicSales28&show_icons=true&locale=en&layout=compact" alt="Vic-Langs" />
+<div align="center">
+<img width=400px src="https://github-readme-stats.vercel.app/api?username=VicSales28&show_icons=true&theme=transparent" alt="Vic-Stars" />
+<img width=350px src="https://github-readme-stats.vercel.app/api/top-langs?username=VicSales28&show_icons=true&locale=en&layout=compact" alt="Vic-Langs" />
 </div>
 
 <h3 align="center"> Languages and Tools: </h3>
