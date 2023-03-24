@@ -59,7 +59,7 @@ const contactMe = () => ({
 </div>
 
 <h3 align="center"> Languages and Tools: </h3>
-<p align="center">
+<div align="center">
   <img align="center" alt="Vic-Js"
     src="https://img.shields.io/badge/javascript es6+-F7DF1E?style=for-the-badge&amp;logo=javascript&amp;logoColor=black">
   <img align="center" alt="Vic-React"
@@ -80,7 +80,7 @@ const contactMe = () => ({
     src="https://img.shields.io/badge/git-F05032?style=for-the-badge&amp;logo=git&amp;logoColor=white">
   <img align="center" alt="Vic-GitHub"
     src="https://img.shields.io/badge/github-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white">
-</p>
+</div>
 
 
 ##  Connect with me
