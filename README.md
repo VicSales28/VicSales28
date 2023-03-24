@@ -64,15 +64,21 @@ const contactMe = () => ({
     src="https://img.shields.io/badge/javascript es6+-F7DF1E?style=for-the-badge&amp;logo=javascript&amp;logoColor=black">
   <img align="center" alt="Vic-React"
     src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&amp;logo=react&amp;logoColor=black">
+  <img align="center" alt="Vic-Redux"
+    src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white">
+  <img align="center" alt="Vic-Router"
+    src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white">
+  <img align="center" alt="Vic-Jest"
+    src="https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=Jest&logoColor=white">
   <img align="center" alt="Vic-HTML"
     src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&amp;logo=html5&amp;logoColor=white">
+  <img align="center" alt="Vic-RTL"
+    src="https://img.shields.io/badge/testing%20library-323330?style=for-the-badge&logo=testing-library&logoColor=red">
   <img align="center" alt="Vic-CSS"
     src="https://img.shields.io/badge/css3-1572B6?style=for-the-badge&amp;logo=css3&amp;logoColor=white">
   <img align="center" alt="Vic-Git"
     src="https://img.shields.io/badge/git-F05032?style=for-the-badge&amp;logo=git&amp;logoColor=white">
   <img align="center" alt="Vic-GitHub"
-    src="https://img.shields.io/badge/github-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white">
-   <img align="center" alt="Vic-Redux"
     src="https://img.shields.io/badge/github-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white">
 </p>
 
