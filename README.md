@@ -53,7 +53,7 @@ const contactMe = () => ({
 });
 ```
 
-##  Info from my GitHub
+## 📋 Info from my GitHub
 <div align="center">
 <img width=400px src="https://github-readme-stats.vercel.app/api?username=VicSales28&show_icons=true&theme=transparent" alt="Vic-Stars" />
 <img width=350px src="https://github-readme-stats.vercel.app/api/top-langs?username=VicSales28&show_icons=true&locale=en&layout=compact" alt="Vic-Langs" />
@@ -88,7 +88,7 @@ const contactMe = () => ({
 </div>
 
 
-##  Connect with me
+## 🌐 Connect with me
 <p align="center">
   <a href="https://www.linkedin.com/in/victoria-sales/" target="_blank"><img
       src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"
