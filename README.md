@@ -13,8 +13,6 @@
 
 - 🌍 I'm Brazilian and I live in **Lisbon, Portugal**
 
-- 💬 Ask me about **JavaScript ES6+, RTL, Jest, HTML or CSS**
-
 - 📫 How to reach me **contatovictoriasales@gmail.com**
 
 ## 🚀 Skills
