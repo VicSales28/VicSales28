@@ -31,7 +31,6 @@ const skills = {
       'React-Testing-Library',
       'Jest',
       'Git',
-      'GitHub',
       'HTML 5',
       'CSS 3',
       'Bulma',
