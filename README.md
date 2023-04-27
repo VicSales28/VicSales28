@@ -9,7 +9,7 @@
 
 - 👩‍💻 I’m studying at [Trybe Programming School](https://www.betrybe.com/)
 
-- 🌱 I’m currently learning **Docker**
+- 🌱 I’m currently learning **SQL**
 
 - 🌍 I'm Brazilian and I live in **Lisbon, Portugal**
 
@@ -33,9 +33,13 @@ const skills = {
       'Git',
       'HTML 5',
       'CSS 3',
+      'Bootstrap',
       'Bulma',
       'Eslint',
       'Stylelint',
+  ],
+  backEndSkills: [
+    'Docker',
   ],
   softSkills: [
     'empathy',
@@ -77,14 +81,20 @@ const contactMe = () => ({
     src="https://img.shields.io/badge/testing%20library-323330?style=for-the-badge&logo=testing-library&logoColor=red">
   <img alt="Vic-CSS"
     src="https://img.shields.io/badge/css3-1572B6?style=for-the-badge&amp;logo=css3&amp;logoColor=white">
+  <img alt="Vic-Bulma"
+    src="https://img.shields.io/badge/Bulma-00D1B2?style=for-the-badge&logo=Bulma&logoColor=white">
+   <img alt="Vic-Bootstrap"
+    src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
   <img alt="Vic-Git"
     src="https://img.shields.io/badge/git-F05032?style=for-the-badge&amp;logo=git&amp;logoColor=white">
-   <img alt="Vic-eslint"
-    src="https://img.shields.io/badge/eslint-3A33D1?style=for-the-badge&logo=eslint&logoColor=white">
-   <img alt="Vic-stylelint"
-    src="https://img.shields.io/badge/stylelint-000?style=for-the-badge&logo=stylelint&logoColor=white">
   <img alt="Vic-GitHub"
     src="https://img.shields.io/badge/github-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white">
+  <img alt="Vic-eslint"
+    src="https://img.shields.io/badge/eslint-3A33D1?style=for-the-badge&logo=eslint&logoColor=white">
+  <img alt="Vic-stylelint"
+    src="https://img.shields.io/badge/stylelint-000?style=for-the-badge&logo=stylelint&logoColor=white">
+   <img alt="Vic-Docker"
+    src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white">
 </div>
 
 
