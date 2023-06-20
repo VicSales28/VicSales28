@@ -9,7 +9,7 @@
 
 - 👩‍💻 I’m studying at [Trybe Programming School](https://www.betrybe.com/)
 
-- 🌱 I’m currently learning **SQL**
+- 🌱 I’m currently learning **NodeJS**
 
 - 🌍 I'm Brazilian and I live in **Lisbon, Portugal**
 
