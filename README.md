@@ -26,20 +26,20 @@ const skills = {
   programming languages: ['JavaScript'],
   frontEndTools: [
       'React',
-      'Redux',
       'Hooks',
       'React-Testing-Library',
       'Jest',
+      'Redux',
       'Git',
       'HTML 5',
       'CSS 3',
-      'Bootstrap',
       'Bulma',
       'Eslint',
       'Stylelint',
   ],
   backEndSkills: [
     'Docker',
+    'SQL',
   ],
   softSkills: [
     'empathy',
