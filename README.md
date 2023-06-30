@@ -95,6 +95,12 @@ const contactMe = () => ({
     src="https://img.shields.io/badge/stylelint-000?style=for-the-badge&logo=stylelint&logoColor=white">
    <img alt="Vic-Docker"
     src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white">
+    <img alt="Vic-MySQL"
+    src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">
+     <img alt="Vic-Chai"
+    src="https://img.shields.io/badge/chai.js-323330?style=for-the-badge&logo=chai&logoColor=red">
+     <img alt="Vic-Sinon"
+    src="https://img.shields.io/badge/sinon.js-323330?style=for-the-badge&logo=sinon">
 </div>
 
 
