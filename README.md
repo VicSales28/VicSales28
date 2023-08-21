@@ -9,7 +9,7 @@
 
 - 👩‍💻 I’m studying at [Trybe Programming School](https://www.betrybe.com/)
 
-- 🌱 I’m currently learning **NodeJS**
+- 🌱 I’m currently learning **Python**
 
 - 🌍 I'm Brazilian and I live in **Lisbon, Portugal**
 
@@ -20,33 +20,35 @@
  ```JavaScript
 const skills = {
   name: 'Victoria Sales',
-  about:'FullStack Web Dev Student'
+  about:'Web Development Student'
   level: 'Junior',
   
-  programming languages: ['JavaScript'],
-  frontEndTools: [
+  programming languages: ['JavaScript', 'TypeScript'],
+  frontEndSkills: [
       'React',
       'Hooks',
       'React-Testing-Library',
       'Jest',
       'Redux',
-      'Git',
       'HTML 5',
       'CSS 3',
       'Bulma',
-      'Eslint',
       'Stylelint',
   ],
   backEndSkills: [
     'Docker',
     'SQL',
+    'NodeJS',
+    'Sequelize',
+    'Sinon',
+    'Chai',
   ],
   softSkills: [
     'empathy',
     'team work',
-    'emotional intelligence',
     'organization',
     'creativity',
+    'emotional intelligence',
     'communication',
   ]
 };
