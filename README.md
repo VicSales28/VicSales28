@@ -1,5 +1,4 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&pause=1000&color=CDAD94&width=435&lines=Welcome+to+my+profile%2C+I'm+Victoria!)](https://git.io/typing-svg)
-![Banner](https://t.ly/22nCt)
 
 ## 👩‍🚀 About me
 
@@ -9,9 +8,9 @@
 
 - 🏆 Certifications achieved:
 
-     ✅ 1.500hs Web Development course at [Trybe Programming School](https://www.credential.net/f85484d5-e25e-46d4-88f1-cf5ade050cb9?record_view=true#gs.51rf24)
+     ✅ 1,500-hour Web Development Course [Certificate at Trybe Programming School](https://www.credential.net/f85484d5-e25e-46d4-88f1-cf5ade050cb9)
 
-     ✅ UI/UX Design integrated course program at [California Institute of the Arts](https://www.coursera.org/account/accomplishments/specialization/6VXEEWWREWAE)
+     ✅ UI/UX Design Course program [Certificate at California Institute of the Arts](https://www.coursera.org/account/accomplishments/specialization/6VXEEWWREWAE)
 
 - 🌱 I'm currently studying to obtain a Google **Data Analytics** Professional Certificate
 
@@ -28,15 +27,17 @@ const skills = {
   about:'Web Developer'
   level: 'Junior',
   
-  programming languages: ['JavaScript', 'TypeScript', 'Python'],
+  programming languages: ['JavaScript', 'TypeScript', 'Python', 'C#'],
   frontEndSkills: [
-      'React',
+      'React.js',
       'Hooks',
       'React-Testing-Library',
       'Jest',
       'Redux',
       'HTML 5',
       'CSS 3',
+      'Tailwindcss',
+      'MUI',
       'Bulma',
       'Bootstrap',    
       'Stylelint',
@@ -44,7 +45,7 @@ const skills = {
   backEndSkills: [
     'Docker',
     'SQL',
-    'NodeJS',
+    'Node.js',
     'Sequelize',
     'Sinon',
     'Chai',
@@ -157,9 +158,15 @@ const contactMe = () => ({
         alt="Sinon"
         src="https://img.shields.io/badge/sinon.js-323330?style=for-the-badge&logo=sinon"
       />
+     <img
+        alt="c#"
+        src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white" />
       <img
         alt="Powerbi"
         src="https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+     <img
+        alt="RStudio"
+        src="https://img.shields.io/badge/RStudio-4285F4?style=for-the-badge&logo=rstudio&logoColor=white" />
 </div>
 
 
