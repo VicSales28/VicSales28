@@ -2,9 +2,7 @@
 
 ## 👩‍🚀 About me
 
-- 🙋🏻‍♀️ I’m a professional in **career transition**
-
-- 🎯 My main goal's to become a **FullStack Web Developer**
+- 🙋🏻‍♀️ I'm a **Web Developer**
 
 - 🏆 Certifications achieved:
 
@@ -12,7 +10,7 @@
 
      ✅ UI/UX Design Course program [Certificate at California Institute of the Arts](https://www.coursera.org/account/accomplishments/specialization/6VXEEWWREWAE)
 
-- 🌱 I'm currently studying to obtain a Google **Data Analytics** Professional Certificate
+- 🌱 I'm currently deepening my knowledge at [Alura](https://www.alura.com.br/)
 
 - 🌍 I'm Brazilian and I live in **Lisbon, Portugal**
 
@@ -172,7 +170,7 @@ const contactMe = () => ({
 
 ## 🌐 Connect with me
 <p align="center">
-  <a href="https://www.linkedin.com/in/victoria-sales/" target="_blank"><img
+  <a href="https://www.linkedin.com/in/victoria-sales-dev/" target="_blank"><img
       src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"
       target="_blank"></a>
 </p>
