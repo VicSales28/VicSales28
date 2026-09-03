@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&pause=1000&color=CDAD94&width=435&lines=Welcome+to+my+profile%2C+I'm+Victoria!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&pause=1000&color=6329DC&width=435&lines=Welcome+to+my+profile%2C+I'm+Victoria!)](https://git.io/typing-svg)
 
 ## 👩‍🚀 About me
 
@@ -10,7 +10,7 @@
 
      ✅ UI/UX Design Course program [Certificate at California Institute of the Arts](https://www.coursera.org/account/accomplishments/specialization/6VXEEWWREWAE)
 
-- 🌱 I'm currently deepening my knowledge at [Alura](https://www.alura.com.br/)
+- 🌱 I'm currently deepening my knowledge at [Cinel](https://w3.cinel.pt/)
 
 - 🌍 I'm Brazilian and I live in **Lisbon, Portugal**
 
@@ -22,21 +22,16 @@
  ```JavaScript
 const skills = {
   name: 'Victoria Sales',
-  about:'Web Developer'
-  level: 'Junior',
+  about:'Web Designer | UI/UX Designer | Front-end Developer'
   
-  programming languages: ['JavaScript', 'TypeScript', 'Python', 'C#'],
+  programming languages: ['JavaScript', 'TypeScript', 'C#'],
   frontEndSkills: [
       'React.js',
-      'Hooks',
-      'React-Testing-Library',
-      'Jest',
       'Redux',
       'HTML 5',
       'CSS 3',
       'Tailwindcss',
       'MUI',
-      'Bulma',
       'Bootstrap',    
       'Stylelint',
   ],
@@ -44,16 +39,13 @@ const skills = {
     'Docker',
     'SQL',
     'Node.js',
-    'Sequelize',
-    'Sinon',
-    'Chai',
   ],
   softSkills: [
     'empathy',
-    'team work',
-    'organization',
     'creativity',
     'emotional intelligence',
+    'team work',
+    'organization',
     'communication',
   ]
 };
