@@ -36,9 +36,10 @@ const skills = {
       'Stylelint',
   ],
   backEndSkills: [
-    'Docker',
+    'C#',
     'SQL',
     'Node.js',
+    'Docker',
   ],
   softSkills: [
     'empathy',
