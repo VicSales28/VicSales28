@@ -1,8 +1,8 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&pause=1000&color=6329DC&width=435&lines=Welcome+to+my+profile%2C+I'm+Victoria!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&pause=1000&color=b57ed1&width=435&lines=Welcome+to+my+profile%2C+I'm+Victoria!)](https://git.io/typing-svg)
 
 ## 👩‍🚀 About me
 
-- 🙋🏻‍♀️ I'm a **Web Developer**
+- 🙋🏻‍♀️ I'm a **Web Designer | UI/UX Designer | Web Developer**
 
 - 🏆 Certifications achieved:
 
@@ -10,7 +10,7 @@
 
      ✅ UI/UX Design Course program [Certificate at California Institute of the Arts](https://www.coursera.org/account/accomplishments/specialization/6VXEEWWREWAE)
 
-- 🌱 I'm currently deepening my knowledge at [Cinel](https://w3.cinel.pt/)
+- 🌱 Currently studying at [Cinel](https://w3.cinel.pt/)
 
 - 🌍 I'm Brazilian and I live in **Lisbon, Portugal**
 
@@ -21,7 +21,7 @@
 
  ```JavaScript
 const skills = {
-  name: 'Victoria Sales',
+  name: 'Victoria Sales Matos',
   about:'Web Designer | UI/UX Designer | Front-end Developer'
   
   programming languages: ['JavaScript', 'TypeScript', 'C#'],
@@ -57,10 +57,6 @@ const contactMe = () => ({
 ```
 
 ## 📋 Info from my GitHub 
-<div align="center">
-<img width=400px src="https://github-readme-stats.vercel.app/api?username=VicSales28&show_icons=true&theme=transparent" alt="Vic-Stars" />
-<img width=350px src="https://github-readme-stats.vercel.app/api/top-langs?username=VicSales28&show_icons=true&locale=en&layout=compact" alt="Vic-Langs" />
-</div>
 
 <h3 align="center"> Languages and Tools: </h3>
 <div align="center">
